@@ -1,1 +1,2 @@
 some text
+this text added using browser. Этот текст добавлен используя браузер.
